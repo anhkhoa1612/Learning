@@ -1,0 +1,85 @@
+﻿Index,Rank,City,Population,Area KM2,Area M2,Density KM2,Density M2,Country
+0,1,Manila,1846600,43,17,43064,111537,Philippines
+1,2,Mandaluyong,425758,11,4,38495,99703,Philippines
+2,3,Pateros,65227,2,1,37061,95988,Philippines
+3,4,Caloocan,1661584,53,21,31233,80893,Philippines
+4,5,Bnei Brak,218691,7,3,30854,79911,Israel
+5,6,Kathmandu,1442000,49,19,29161,75526,Nepal
+6,7,Dhaka,8906136,306,118,29069,75289,Bangladesh
+7,8,Makati,629616,22,8,28975,75044,Philippines
+8,9,Port-au-Prince,987310,36,14,27395,70953,Haiti
+9,10,Levallois-Perret,64379,2,1,26713,69187,France
+10,11,Bogotá,8034649,307,119,26141,67705,Colombia
+11,12,Vincennes,49891,2,1,26121,67653,France
+12,13,Le Pré-Saint-Gervais,17950,1,0,25643,66415,France
+13,14,Pasig,803159,31,12,25530,66122,Philippines
+14,15,Saint-Mandé,22619,1,0,24586,63677,France
+15,16,Kolkata,4496694,185,71,24306,62954,India
+16,17,Montrouge,50260,2,1,24280,62886,France
+17,18,La Plata,654324,27,10,24234,62767,Argentina
+18,19,Saint-Josse-ten-Noode,27548,1,0,24165,62587,Belgium
+19,20,Malabon,380522,16,6,23842,61751,Philippines
+20,21,Pasay,440656,19,7,23640,61229,Philippines
+21,22,"Neapoli, Thessaloniki",27084,1,0,23149,59955,Greece
+22,23,Malé,133412,6,2,23002,59575,Maldives
+23,24,Damascus,1711000,77,30,22221,57552,Syria
+24,25,Navotas,247543,12,4,21507,55703,Philippines
+25,26,Asmara,963000,45,17,21400,55426,Eritrea
+26,27,Mislata,43756,2,1,21241,55014,Spain
+27,28,Macau,643100,30,12,21224,54971,Macau
+28,29,Kallithea,100050,5,2,21063,54554,Greece
+29,30,Nea Smyrni,73090,4,1,20764,53779,Greece
+30,31,Paris,2187526,105,41,20755,53754,France
+31,32,Howrah,1072161,52,20,20722,53670,India
+32,33,Mumbai,12442373,603,233,20634,53442,India
+33,34,"San Juan, Metro Manila",126347,6,2,21524,55748,Philippines
+34,35,Colombo,752993,37,14,20351,52710,Sri Lanka
+35,36,L'Hospitalet de Llobregat,252171,12,5,20336,52671,Spain
+36,37,Marikina,456059,23,9,20144,52173,Philippines
+37,38,Union City,66455,3,1,20047,51921,United States
+38,39,Saint-Gilles,50002,3,1,19842,51391,Belgium
+39,40,Clichy,61070,3,1,19828,51354,France
+40,41,Kotsiubynske,17249,1,0,19826,51351,Ukraine
+41,42,Courbevoie,81719,4,2,19597,50756,France
+42,43,Boulogne-Billancourt,120071,6,2,19460,50403,France
+43,44,West New York,49708,3,1,19060,49365,United States
+44,45,Las Piñas,606293,32,12,18935,49041,Philippines
+45,46,Koekelberg,21990,1,0,18795,48679,Belgium
+46,47,Bandung,3075478,167,64,18416,47698,Indonesia
+47,48,General Mariano Alvarez,172433,9,4,18344,47511,Philippines
+48,49,Monaco,36950,2,1,18292,47377,Monaco
+49,50,Les Lilas,23045,1,0,18290,47370,France
+50,51,Hoboken,60417,3,1,18225,47204,United States
+51,52,Giv'atayim,58500,3,1,18056,46764,Israel
+52,53,Quezon City,2960048,166,64,17882,46315,Philippines
+53,54,Vanves,27729,2,1,17775,46037,France
+54,55,Asnières-sur-Seine,85191,5,2,17674,45777,France
+55,56,Ciudad Nezahualcóyotl,1110565,63,24,17503,45334,Mexico
+56,57,Sliema,22591,1,1,17378,45008,Malta
+57,58,Santa Coloma de Gramenet,118821,7,3,16974,43964,Spain
+58,59,Modi'in Illit,80894,5,2,16748,43378,Israel
+59,60,Chittagong,2582401,155,60,16661,43151,Bangladesh
+60,61,Sint-Jans-Molenbeek,97462,6,2,16547,42857,Belgium
+61,62,Seoul,9962393,605,234,16461,42634,South Korea
+62,63,Charenton-le-Pont,30374,2,1,16418,42524,France
+63,64,La Garenne-Colombes,29169,2,1,16387,42443,France
+64,65,Schaerbeek,133309,8,3,16377,42417,Belgium
+65,66,Neuilly-sur-Seine,60361,4,1,16183,41913,France
+66,67,Issy-les-Moulineaux,68451,4,2,16106,41715,France
+67,68,Barcelona,1636732,101,39,16149,41827,Spain
+68,69,Jakarta,10560000,662,255,15964,41346,Indonesia
+69,70,Bat-Yam,129584,8,3,15842,41030,Israel
+70,71,Gentilly,18605,1,0,15767,40836,France
+71,72,Cairo,9539673,606,234,15742,40772,Egypt
+72,73,Buenos Aires,3120612,203,78,15372,39815,Argentina
+73,74,Cimahi,568400,40,16,14080,36467,Indonesia
+74,75,Senglea,2820,0,0,14100,36519,Malta
+75,76,"Rosario, Cavite",110807,8,3,14561,37712,Philippines
+76,77,Mandaue,364116,25,10,14461,37453,Philippines
+77,78,Warabi,73777,5,2,14438,37394,Japan
+78,79,Bacoor,664625,46,18,14395,37284,Philippines
+79,80,"San Pedro, Laguna",326001,24,9,13555,35108,Philippines
+80,81,Freetown,1055964,81,31,12960,33566,Sierra Leone
+81,82,Geneva,201818,16,6,12677,32833,Switzerland
+82,83,Portici,53801,5,2,11903,30828,Italy
+83,84,El'ad,49671,4,1,14192,36757,Israel
